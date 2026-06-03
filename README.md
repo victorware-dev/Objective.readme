@@ -1,6 +1,6 @@
 # 👋 Hi, I'm victorware.dev
 
-### Embedded Software Developer | C • Linux • RTOS | Firmware & Low-Level Systems
+### Embedded Software Development | C • Linux • RTOS | Firmware & Low-Level Systems
 
 Passionate about building reliable embedded software and continuously learning how systems work from the hardware level upward.
 
